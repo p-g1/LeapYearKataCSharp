@@ -1,0 +1,12 @@
+C:\Users\garvinp\source\repos\LeapYearKata\LeapYearKata.Source\bin\Debug\LeapYearKata.Source.dll
+C:\Users\garvinp\source\repos\LeapYearKata\LeapYearKata.Source\bin\Debug\LeapYearKata.Source.pdb
+C:\Users\garvinp\source\repos\LeapYearKata\LeapYearKata.Source\obj\Debug\LeapYearKata.Source.csprojAssemblyReference.cache
+C:\Users\garvinp\source\repos\LeapYearKata\LeapYearKata.Source\obj\Debug\LeapYearKata.Source.csproj.CoreCompileInputs.cache
+C:\Users\garvinp\source\repos\LeapYearKata\LeapYearKata.Source\obj\Debug\LeapYearKata.Source.dll
+C:\Users\garvinp\source\repos\LeapYearKata\LeapYearKata.Source\obj\Debug\LeapYearKata.Source.pdb
+C:\Users\garvinp\source\repos\LeapYearKata\CSharp\LeapYearKata.Source\bin\Debug\LeapYearKata.Source.dll
+C:\Users\garvinp\source\repos\LeapYearKata\CSharp\LeapYearKata.Source\bin\Debug\LeapYearKata.Source.pdb
+C:\Users\garvinp\source\repos\LeapYearKata\CSharp\LeapYearKata.Source\obj\Debug\LeapYearKata.Source.csprojAssemblyReference.cache
+C:\Users\garvinp\source\repos\LeapYearKata\CSharp\LeapYearKata.Source\obj\Debug\LeapYearKata.Source.csproj.CoreCompileInputs.cache
+C:\Users\garvinp\source\repos\LeapYearKata\CSharp\LeapYearKata.Source\obj\Debug\LeapYearKata.Source.dll
+C:\Users\garvinp\source\repos\LeapYearKata\CSharp\LeapYearKata.Source\obj\Debug\LeapYearKata.Source.pdb
